@@ -1,0 +1,297 @@
+VCD info: dumpfile fullchip_tb.vcd opened for output.
+##### Q data txt reading #####
+          2
+
+         -1
+
+         -7
+
+         -7
+
+         -3
+
+         -2
+
+         -5
+
+          6
+
+          3
+
+         -3
+
+          5
+
+          3
+
+          5
+
+          1
+
+          4
+
+         -4
+
+         -6
+
+         -1
+
+         -8
+
+         -2
+
+          4
+
+         -5
+
+          3
+
+          5
+
+          5
+
+          1
+
+          5
+
+         -3
+
+         -7
+
+         -4
+
+         -5
+
+          1
+
+         -8
+
+          3
+
+         -7
+
+         -2
+
+         -4
+
+         -6
+
+          6
+
+         -4
+
+          4
+
+         -2
+
+          1
+
+          1
+
+         -2
+
+         -6
+
+         -1
+
+         -3
+
+         -7
+
+          7
+
+          4
+
+         -8
+
+          4
+
+         -1
+
+          1
+
+         -8
+
+          6
+
+          5
+
+         -7
+
+         -5
+
+         -3
+
+         -4
+
+          0
+
+         -6
+
+##### K data txt reading #####
+#####          -6
+
+#####           3
+
+#####          -2
+
+#####          -1
+
+#####          -5
+
+#####           1
+
+#####           0
+
+#####           7
+
+#####           0
+
+#####          -5
+
+#####          -8
+
+#####           0
+
+#####           6
+
+#####           0
+
+#####          -5
+
+#####          -7
+
+#####           4
+
+#####          -7
+
+#####          -6
+
+#####           3
+
+#####           7
+
+#####           7
+
+#####           6
+
+#####           6
+
+#####          -3
+
+#####           0
+
+#####           0
+
+#####          -7
+
+#####           6
+
+#####           3
+
+#####           4
+
+#####           7
+
+#####           6
+
+#####          -3
+
+#####           4
+
+#####          -7
+
+#####          -4
+
+#####          -3
+
+#####          -2
+
+#####          -5
+
+#####           0
+
+#####          -7
+
+#####           3
+
+#####           3
+
+#####          -2
+
+#####           6
+
+#####           4
+
+#####          -1
+
+#####           7
+
+#####          -5
+
+#####           2
+
+#####           1
+
+#####           3
+
+#####           6
+
+#####           1
+
+#####          -5
+
+#####           3
+
+#####          -1
+
+#####           6
+
+#####           3
+
+#####          -6
+
+#####          -2
+
+#####           1
+
+#####          -4
+
+##### Estimated multiplication result #####
+         61          26           7          41          34         -67         -58         -63
+prd @cycle 0:                   07a06803829045ef7e37c1
+        -92          13          54          -9          15          61          94          39
+prd @cycle 1:                   f480341b7f701e0f42f027
+         61          43          66          88         -83         -54         -95        -102
+prd @cycle 2:                   07a0ac21058f5bf2bd0f9a
+          4         -69        -127         -61         113         -32         -18          76
+prd @cycle 3:                   009eefc0fc30e3f83f704c
+         59          15         -75          -8         -29         -48        -109         -17
+prd @cycle 4:                   07603fdaff8fc7f43c9fef
+        -50          16         -53         -74          70         -13          13          58
+prd @cycle 5:                   f9c043e5fb608dfcc0683a
+        -14           8        -146          46          34         -63         -37         -17
+prd @cycle 6:                   fe4023b702e045f07edfef
+        -33          55         -69         -55          82         -83          -5           6
+prd @cycle 7:                   fbe0dfddfc90a5eb7fd806
+##### Qmem writing  #####
+##### Kmem writing #####
+##### K data loading to processor #####
+##### execute #####
+##### move ofifo to pmem #####
+Memory write to PSUM mem add 0 1869 1962 1927 2009 1890 2013   22 1985
+Memory write to PSUM mem add 0 e9beabc3fd9ec5f740b7c1 
+Memory write to PSUM mem add 1  164   45   86   87  111   29 2030   23
+Memory write to PSUM mem add 1 1480b42b0570de077f7017 
+Memory write to PSUM mem add 2 1917   27 1970 2008 2029   74 2017 1994
+Memory write to PSUM mem add 2 efa06fd97d8fda12bf0fca 
+Memory write to PSUM mem add 3    4 2011 2017 2019 1889 1936   14 1980
+Memory write to PSUM mem add 3 009f6ff0fe3ec3e40077bc 
+Memory write to PSUM mem add 4 1771 2031 1909 1880 1907 1920 1923 1855
+Memory write to PSUM mem add 4 dd7fbfbaf58ee7e03c1f3f 
+Memory write to PSUM mem add 5   14 1984 1979    6 1910 1923 1981 1898
+Memory write to PSUM mem add 5 01df03dd806eede0fdef6a 
+Memory write to PSUM mem add 6 1922   72   30 1854 2002 2033 1995   15
+Memory write to PSUM mem add 6 f041200f73efa5fc7e580f 
+Memory write to PSUM mem add 7 1871 1975 1947 2009 1922 1901 2027 1926
+Memory write to PSUM mem add 7 e9fedfcdfd9f05db7f5f86 
